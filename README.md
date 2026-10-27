@@ -1,20 +1,21 @@
-# Landing Page 
+# Landing page
 
-## Construida com: 
-- HTML 5
-- CSS 3
-- JavaScript (puro)
+Página estática de estudo construída com HTML, CSS e JavaScript. O projeto reúne seções de introdução, conteúdo em grade, galeria, preços e contato, com navegação por âncoras e menu adaptado para telas menores.
 
+## Tecnologias
 
-### <span aria-hidden="true">✅</span> Deploy Preview for *landingpage-curso-js* ready!
+- HTML5
+- CSS3
+- JavaScript no próprio HTML
 
+## Como visualizar
 
-|  Name | Link |
-|:-:|------------------------|
-|<span aria-hidden="true">🔨</span> Latest commit | 7705ceb33cf0a78f106abad3277a7c12fba15cf0 |
-|<span aria-hidden="true">🔍</span> Latest deploy log | https://app.netlify.com/sites/landingpage-curso-js/deploys/662956fd7d11fd000874e8b2 |
-|<span aria-hidden="true">😎</span> Deploy Preview | [https://deploy-preview-1--landingpage-curso-js.netlify.app](https://deploy-preview-1--landingpage-curso-js.netlify.app) |
-|<span aria-hidden="true">📱</span> Preview on mobile | <details><summary> Toggle QR Code... </summary><br /><br />![QR Code](https://app.netlify.com/qr-code/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2RlcGxveS1wcmV2aWV3LTEtLWxhbmRpbmdwYWdlLWN1cnNvLWpzLm5ldGxpZnkuYXBwIn0.L9svX8Md68odIzpfSgIpUkEHVeAAkEMYBm2Lw3JcrU8)<br /><br />_Use your smartphone camera to open QR code link._</details> |
----
+Clone o repositório e abra o arquivo `index.html` em um navegador:
 
-_To edit notification comments on pull requests, go to your [Netlify site configuration](https://app.netlify.com/sites/landingpage-curso-js/configuration/deploys#deploy-notifications)._
+```bash
+git clone https://github.com/oemersonsa/landing-page.git
+```
+
+Os estilos e as imagens locais estão na pasta `assents/`. Algumas imagens da galeria e fontes são carregadas de serviços externos e dependem de conexão com a internet.
+
+O conteúdo e o formulário presentes na página são demonstrativos; o repositório não inclui um backend para processar o envio do formulário.
